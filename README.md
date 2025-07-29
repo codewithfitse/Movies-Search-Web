@@ -11,7 +11,7 @@
 
 ---
 
-![Preview](./Frontend/public/hero.png)
+![Preview](./React-app/public/hero.png)
 
 ---
 

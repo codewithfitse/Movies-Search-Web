@@ -5,6 +5,16 @@
 
 ---
 
+## 📸 Demo
+
+**Live App**: [[Click Here to see..](https://movies-search-web-r8ah.vercel.app)
+
+---
+
+![Preview](./Frontend/public/hero.png)
+
+---
+
 ## 📽 About MovieMania
 
 **MovieMania** is a sleek and dynamic website where you can:
